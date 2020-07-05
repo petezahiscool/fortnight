@@ -158,11 +158,11 @@ function readLeaderBoard() {
 
 // create questions here
 var questions = [
-    new Question("Hyper Text Markup Language Stand For?", ["JavaScript", "XHTML","CSS", "HTML"], "HTML"),
-    new Question("Which language is used for styling web pages?", ["HTML", "JQuery", "CSS", "XML"], "CSS"),
-    new Question("Which is not a JavaScript Framework?", ["Python Script", "JQuery","Django", "NodeJS"], "Django"),
-    new Question("Which is used for Connect To Database?", ["PHP", "HTML", "JS", "All"], "PHP"),
-    new Question("Webdevtrick.com is about..", ["Web Design", "Graphic Design", "SEO & Development", "All"], "All")
+    new Question("Question1", ["option1", "option2","option3", "option4"], "correctoption"),
+    new Question("Question2", ["option1", "option2","option3", "option4"], "correctoption"),
+    new Question("Question3", ["option1", "option2","option3", "option4"], "correctoption"),
+    new Question("Question4", ["option1", "option2","option3", "option4"], "correctoption"),
+    new Question("Question5", ["option1", "option2","option3", "option4"], "correctoption")
 ];
  
 // create quiz
